@@ -65,7 +65,9 @@ https://github.com/username/project-name.git
 ## Install Dependencies
 
 ***npm install***
+
 ***npx ci***
+
 
 Install Playwright Browsers
 ***npx playwright install***
@@ -96,3 +98,4 @@ To serve an Allure report, run:
 
 
 Note: Ensure Allure is properly installed and configured in your project for the above command to work.
+
